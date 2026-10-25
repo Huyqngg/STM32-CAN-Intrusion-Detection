@@ -4,16 +4,6 @@ An embedded CAN-bus intrusion detection project with two STM32 nodes. An STM32F1
 
 This repository preserves the files supplied with the project, including the STM32CubeIDE projects, drivers, generated AI code, model, dataset, and existing build outputs. This README is the only added file.
 
-## Upload status
-
-All firmware source files, project configuration, AI runtime, model, and dataset are present. Three original prebuilt artifacts are pending upload:
-
-- `node1/Debug/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.o`
-- `node1/Debug/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.o`
-- `node1/Debug/node1.elf`
-
-The uploaded original files have not been edited. The pending files are build outputs; their corresponding firmware source files are included.
-
 ## Project contents
 
 | Path | Purpose |
